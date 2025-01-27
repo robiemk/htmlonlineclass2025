@@ -1,0 +1,30 @@
+h2{
+    color: chartreuse;
+    text-align: center;
+    font-family: "Monotype Corsiva";
+    font-size: 35px;
+
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+
+
+}
+th,td{
+    border: 2px solid black;
+    padding: 10px;
+}
+
+p{
+    color: blue;
+    font-family: Bahnschrift;
+    font-size: 12px;
+}
+
+p{
+    color: blueviolet;
+    font-family: "Monotype Corsiva";
+    font-size: 15px;
+}
